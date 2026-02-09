@@ -28,7 +28,7 @@ NewsAPI – Fetches live news updates.
 
 Clone the repository
 
-git clone https://github.com/your-username/news-website.git
+git clone https://github.com/Sanchay-Kumar-Singh/Real-Time-News-Website_Using_Javascript.git
 
 
 Navigate to the project folder
@@ -40,7 +40,7 @@ Open index.html in your browser
 
 No backend required, purely frontend.
 
-🔗 API Integration
+<h1>🔗 API Integration</h1>
 
 This project uses NewsAPI
  for fetching live news.
